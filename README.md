@@ -1,6 +1,6 @@
 # Methanation Code and Data
 
-This repository contains the dataset and code used in the study **"Unveiling Key Variables in CO2 Methanation Using Machine Learning for Ni-Based Catalysts."**
+This repository contains the dataset and code used in the study **"Interpretable Machine Learning for CO₂ Methanation over Ni-Based Catalysts"**
 
 ## Repository Structure
 - **`data/`**: Contains the dataset (`data_art1.xlsx`).
